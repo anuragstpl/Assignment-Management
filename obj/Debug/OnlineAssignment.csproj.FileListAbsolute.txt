@@ -1,0 +1,76 @@
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\obj\Debug\OnlineAssignment.csproj.App.config
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\obj\Debug\OnlineAssignment.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\obj\Debug\PurcellCompliance.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\obj\Debug\PurcellCompliance.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PurcellCompliance.dll.config
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PurcellCompliance.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PurcellCompliance.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\DataLayer.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\EntityLayer.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\Newtonsoft.Json.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Amazon.Adm.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Android.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Apple.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Blackberry.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Core.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.FirefoxOS.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Google.Chrome.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.Windows.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\PushSharp.WindowsPhone.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.IO.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.Extensions.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.Primitives.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.WebRequest.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Runtime.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Threading.Tasks.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\EntityFramework.dll
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\DataLayer.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\EntityLayer.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\Newtonsoft.Json.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.IO.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.Extensions.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.Primitives.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Net.Http.WebRequest.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Runtime.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\System.Threading.Tasks.xml
+E:\Student Jobs\DotNet\AssignmentManagement\PurcellCompliance\bin\EntityFramework.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PurcellCompliance.dll.config
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PurcellCompliance.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PurcellCompliance.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\DataLayer.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\EntityLayer.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\Newtonsoft.Json.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Amazon.Adm.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Android.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Apple.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Blackberry.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Core.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.FirefoxOS.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Google.Chrome.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.Windows.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\PushSharp.WindowsPhone.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.IO.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.Extensions.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.Primitives.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.WebRequest.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Runtime.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Threading.Tasks.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\EntityFramework.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\DataLayer.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\EntityLayer.pdb
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\Newtonsoft.Json.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.IO.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.Extensions.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.Primitives.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Net.Http.WebRequest.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Runtime.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\System.Threading.Tasks.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\bin\EntityFramework.xml
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\obj\Debug\OnlineAssignment.csproj.App.config
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\obj\Debug\OnlineAssignment.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\obj\Debug\PurcellCompliance.dll
+E:\Student Jobs\DotNet\AssignmentManagement\Online Assignment\obj\Debug\PurcellCompliance.pdb
